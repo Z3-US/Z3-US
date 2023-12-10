@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Z3-US
-- 👀 I’m interested in Software development 
-- 🌱 I’m currently learning OOPS
+- 👋 Hi, I’m Chetan Negi.
+- 👀 I’m interested in Software development. 
+- 🌱 I’m currently learning OOPS.
 - 💞️ I’m looking to collaborate on app dev.
 - 📫 How to reach me :- whatsapp:- 9548967932
 
